@@ -9,8 +9,8 @@
 <h3 align="left">Connect with me :</h3>
 <p align="left">
 <a href="https://auth.geeksforgeeks.org/user/asnr1010" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="asnr1010" height="30" width="40" /></a>
-<a href="https://www.quora.com/profile/Ankit-Singh-12588" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/0/09/Quora_icon.svg" alt="Ankit Singh" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UCyok-F_IoYM9rpK2bXP9b2Q" target="blank"><img align="center" src="https://en.wikipedia.org/wiki/YouTube_%28channel%29#/media/File:YouTube_social_white_square_(2017).svg)" alt="asnr1010" height="30" width="40" /></a>  
+<a href="https://www.quora.com/profile/Ankit-Singh-12588" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/0/09/Quora_icon.svg" alt="Quora_logo" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCyok-F_IoYM9rpK2bXP9b2Q" target="blank"><img align="center" src="https://en.wikipedia.org/wiki/YouTube_%28channel%29#/media/File:YouTube_social_white_square_(2017).svg" alt="Youtube_logo" height="30" width="40" /></a>  
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
