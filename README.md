@@ -1,4 +1,4 @@
-<h3 align="center">Hello, I am from India !</h3>
+<h3 align="center">Hello, Everyone !</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asnr1010&label=Profile%20views&color=0e75b6&style=flat" alt="asnr1010" /> </p>
 
