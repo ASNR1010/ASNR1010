@@ -1,4 +1,4 @@
-![SDE](https://user-images.githubusercontent.com/109351602/202650321-7f4da361-f98f-4345-8df4-adf352a11322.gif) 
+![SDE](https://github.com/ASNR1010/HTML-Quiz/blob/main/Photos/github_banner.gif) 
 
 <h2 align="center">Hello, Everyone! 👋</h2>
 
