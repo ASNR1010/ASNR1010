@@ -1,6 +1,6 @@
 ![SDE](https://github.com/ASNR1010/HTML-Quiz/blob/main/Photos/github_banner.gif) 
 
-<h2 align="center">Hello, Everyone! 👋</h2>
+<h2 align="center">Hello, Everyone! :wave: </h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asnr1010&label=Profile%20views&color=0e75b6&style=flat" alt="asnr1010" /> </p>
 
