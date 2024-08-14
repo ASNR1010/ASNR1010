@@ -1,11 +1,37 @@
 ![SDE](https://github.com/ASNR1010/HTML-Quiz/blob/main/Photos/github_banner.gif) 
 
+<!--
+---
+title: "Link in Xaringan"
+output: xaringan::moon_reader
+---
+
+```{css, echo=FALSE}
+.link-style1 a {
+  color: blue;
+  text-decoration: underline;
+}
+
+.link-style2 a {
+ color: blue;
+}
+
+```
+
+# Adding Email and website link
+
+E-mail: .link-style1[[example@gmail.com](mailto:example@gmail.com)]
+
+Also visit this page .link-style2[[wikipedia](https://en.wikipedia.org/wiki/Main_Page)]
+-->
+
+
 <h2 align="center">Hello, Everyone! :wave: </h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asnr1010&label=Profile%20views&color=0e75b6&style=flat" alt="asnr1010" /> </p>
 
 
-📫 How to reach me : [Click Here!](ankitsingh341217@gmail.com)
+📫 How to reach me : [Click Here!](mailto:ankitsingh341217@gmail.com)
 
 <h3 align="left">Connect with me :</h3>
 <p align="left">
