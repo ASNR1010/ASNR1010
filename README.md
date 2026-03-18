@@ -1,4 +1,4 @@
-![SDE](https://github.com/ASNR1010/HTML-Quiz/blob/main/Photos/github_banner.gif) 
+
 
 <!--
 ---
